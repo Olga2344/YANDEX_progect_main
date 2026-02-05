@@ -76,4 +76,5 @@
 ### Системные требования- 
 **Python**: 3.9 или выше.- 
 **Рекомендуемые версии библиотек:**  - `pandas >= 1.5`  - `numpy >= 1.24`  - `matplotlib >= 3.5`  - `seaborn >= 0.12`- **ОС**: Windows / macOS / Linux.- 
+
 **Инструменты:**  - Jupyter Notebook 
