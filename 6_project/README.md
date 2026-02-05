@@ -104,4 +104,5 @@
   - `plotly>=5.15`
   - `pycountry>=24.6`
 - **ОС**: Windows / macOS / Linux.
+
 - **Инструменты**: Jupyter Notebook
